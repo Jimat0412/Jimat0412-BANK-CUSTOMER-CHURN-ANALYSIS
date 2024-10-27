@@ -1,19 +1,18 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS
 
 ## Table Of Contents
-- [Project Overview](Project-Overview)
-- [Data Sources](Data-Sources)
-- [Tools](Tools)
-- [Data Cleaning](Data-Cleaning)
-- [Exploratory Data Analysis](Exploratory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
-- [Results](Results)
-- [Summary](Summary)
-- [Recommendation](Recommendation)
-- [Limitations](Limitations)
-- [References](References)
-
-
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Summary](#summary)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+- [References](#references)
+  
 ### Project Overview
 
 The goal of this project is to understand why some customers leave the bank (churn) and to predict which customers are likely to leave. This will help the bank improve customer retention by identifying at-risk customers and offering strategies to keep them.
