@@ -92,3 +92,12 @@ Based on the analysis We recommend the following actions:
 
 ### References
 [Download here Kaggle](https://www.kaggle.com/datasets/akanshachomal/bank-churn-customer-analysis)
+
+😃
+
+💻
+
+🏦
+|Heading1|Heading2|
+|--------|--------|
+|Microsoft Excel|PowerBI|
