@@ -17,6 +17,10 @@
 
 The goal of this project is to understand why some customers leave the bank (churn) and to predict which customers are likely to leave. This will help the bank improve customer retention by identifying at-risk customers and offering strategies to keep them.
 
+![Screenshot (258)](https://github.com/user-attachments/assets/511966ad-9cff-46d5-9992-0a4788608949)
+
+![Screenshot (259)](https://github.com/user-attachments/assets/62e452cc-42d0-43d3-96c7-95a73d140b02)
+
 ### Data Sources
 
 Bank Customer Churn: The Primary Dataset used for this analysis is the "Bank_Churn.csv" file, This data source collectively provide insights into customer demographics, financial status, behavior, and churn outcomes.
